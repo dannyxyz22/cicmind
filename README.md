@@ -4,7 +4,7 @@ Um projeto que apresenta o **Catecismo da Igreja Católica** em forma de **Mapa 
 
 ## 📋 O que é este projeto?
 
-Este repositório contém o conteúdo do Catecismo da Igreja Católica convertido em formato Markdown e estruturado como um mapa mental. Utilizando a ferramenta **MarkMap**, o arquivo Markdown é transformado em uma visualização interativa em HTML que facilita a exploração do conteúdo.
+Este repositório contém o sumário do Catecismo da Igreja Católica convertido em formato Markdown e estruturado como um mapa mental. Utilizando a ferramenta **MarkMap**, o arquivo Markdown é transformado em uma visualização interativa em HTML que facilita a exploração do conteúdo.
 
 ## 🗂️ Estrutura do Projeto
 
