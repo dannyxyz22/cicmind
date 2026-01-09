@@ -4,7 +4,7 @@ Um projeto que apresenta o **Catecismo da Igreja Católica** em forma de **Mapa 
 
 ## 📋 O que é este projeto?
 
-Este repositório contém o sumário do Catecismo da Igreja Católica convertido em formato Markdown e estruturado como um mapa mental. Utilizando a ferramenta **MarkMap**, o arquivo Markdown é transformado em uma visualização interativa em HTML que facilita a exploração do conteúdo.
+Este repositório contém o sumário do Catecismo da Igreja Católica convertido em formato Markdown e estruturado como um mapa mental. Utilizando a ferramenta **MarkMap**, o arquivo Markdown é trans[...]
 
 ## 🗂️ Estrutura do Projeto
 
@@ -14,6 +14,14 @@ Este repositório contém o sumário do Catecismo da Igreja Católica convertido
 - **`Catecismo-pt-BR.html`** - Visualização em mapa mental (português Brasil)
 - **`CIC.js`** - Scripts personalizados
 - **`.git/`** - Controle de versão Git
+
+#### Preview online (GitHub Pages)
+
+Você pode visualizar diretamente no navegador pelas versões publicadas em GitHub Pages:
+
+- [Catecismo (pt-BR) — Visualizar no navegador](https://dannyxyz22.github.io/cicmind/Catecismo-pt-BR.html)
+- [Catecismo (pt-PT) — Visualizar no navegador](https://dannyxyz22.github.io/cicmind/Catecismo-pt-PT.html)
+
 
 ## 🚀 Como usar
 
@@ -44,6 +52,7 @@ Abra o arquivo `.html` gerado no seu navegador para explorar o mapa mental inter
 ```
 Catecismo-pt-BR.html
 ```
+
 
 ## 📖 Sobre o Catecismo
 
